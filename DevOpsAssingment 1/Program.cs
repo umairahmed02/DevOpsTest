@@ -6,10 +6,9 @@ namespace DevOpsAssingment_1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-            Console.ReadLine();
-            Console.WriteLine("Goodbye World!!!!!");
-            Console.ReadLine();
+            Idiot dylan = new Idiot();
+
+            Console.WriteLine("Full name: " + dylan.Name + " " + dylan.LastName);
         }
     }
 }

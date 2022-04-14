@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FVVgqLkL4XhbSBj6DgbxtM1Da8GsVx71BGtjHHpZbwM5dsWBpvq5+a3b9qpWMEggmXp41xyLTHZKCjB4S3FdjQ==",
+  "dgSpecHash": "iARVNvBHXCzHU9NrLDDP48yWocDdzEhEM+gZbV1H9pM7oY8MJKtroQ+QVPOUGqlTR14RLxTM9H0/f90P1jUwUA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\michael\\Documents\\DevOps\\DevOpsAssingment 1\\DevOpsAssingment 1.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\michael\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512",
-    "C:\\Users\\michael\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\michael\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\michael\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\DevOps\\DevOpsAssingment 1\\DevOpsAssingment 1\\DevOpsAssingment 1.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
